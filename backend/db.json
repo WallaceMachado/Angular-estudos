@@ -24,6 +24,11 @@
       "name": "teste",
       "price": 125.98,
       "id": 5
+    },
+    {
+      "name": "Teste Formulario",
+      "price": "125.85",
+      "id": 6
     }
   ]
 }
