@@ -21,7 +21,7 @@ export class ProductUpdateComponent implements OnInit {
     this.productService.readById(id!).subscribe((product) => {
       this.product = product;
     });
-    console.log(this.product)
+    
   }
 
   updateProduct(): void {
