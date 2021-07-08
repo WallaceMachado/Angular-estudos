@@ -29,6 +29,11 @@
       "name": "Teste Formulario",
       "price": "125.85",
       "id": 6
+    },
+    {
+      "name": "algo",
+      "price": "1",
+      "id": 7
     }
   ]
 }
